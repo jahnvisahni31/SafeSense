@@ -1,5 +1,5 @@
 
-## Driver Drowsiness Detection System
+## SafeSense
 ## Introduction
 The Driver Drowsiness Detection System is a software application designed to detect and alert drivers when they show signs of drowsiness or fatigue while operating a vehicle. This README file provides an overview of the system, its features, and instructions for installation and usage.
 ## Features
